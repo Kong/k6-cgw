@@ -26,7 +26,7 @@ export const options = {
       },
 };
 
-const KONG_HOST_NAME = "52.43.134.51" 
+const KONG_HOST_NAME = "kong.kong" 
 
 export default function () {
 
